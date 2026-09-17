@@ -1,0 +1,13 @@
+@charset "UFT-8";
+body{
+    background-color: black;
+}
+#titulo-principal{
+    text-align: center;
+    color: white;
+}
+
+.video{
+    text-align: center;
+    
+}
